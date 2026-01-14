@@ -2,6 +2,6 @@ import { NextResponse } from "next/server";
 
 export async function GET() {
   return NextResponse.json({
-    quote: "HELLOW RAJESDHWOR MOIRANGTHEMS!",
+    quote: "HELLOW RAJESDHWOR MOIRANGTHEM!",
   });
 }
